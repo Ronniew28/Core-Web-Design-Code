@@ -1,0 +1,56 @@
+body {
+  background-color: black;
+}
+
+.vertical-menu {
+  width: 200px;
+  height: 150px;
+  overflow-y: auto;
+}
+
+.vertical-menu a {
+  background-color: #eee;
+  color: black;
+  display: block;
+  padding: 12px;
+  text-decoration: none;
+}
+
+h1 {
+  color: white;
+}
+
+h3 {
+  color: red;
+}
+
+li: hover > ul {
+  display: block;
+}
+
+
+<h1>Menu No1</h1>
+<div class="vertical-menu">
+  <a href="http://www.rte.ie">RTE</a>
+  <a href="http://www.bbc.co.uk">BBC</a>
+  <a href="http://www.irishtimes.ie">Irish Times</a>
+  <a href="http://www.cnn.com">CNN</a>
+</div>
+<br>
+<div class = "vertical-menu1">
+  <a href="http://www.rte.ie">RTE</a>
+  <a href="http://www.bbc.co.uk">BBC</a>
+  <a href="http://www.irishtimes.ie">Irish Times</a>
+  <a href="http://www.cnn.com">CNN</a>
+</div>
+<br>
+<h3>Nested List<h3>
+  <ul>
+    <li>Random List Items
+      <ul>
+        <li><a href="http://www.rte.ie">RTE</a></li>
+        <li>
+          <a href="http://www.bbc.co.uk">BBC</a></li>  
+        <li><a href="http://www.irishtimes.ie">IrishTimes</a></li>
+  </ul>
+      
