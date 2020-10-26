@@ -1,0 +1,21 @@
+body {
+  background-color: #4747d1;
+  text-align: center;
+}
+
+h3 {
+  color: white;
+  background-color: black;
+  border-color: yellow;
+  border-width: .25em;
+  border-style: solid;
+  box-shadow: 10px 10px 5px #ff0000;
+  width: 100px;
+}
+  
+  
+  <h2>Border Properties</h2>
+
+<h3>Hello World!!</h3>
+
+<h3><a href="https://www.bbc.co.uk/">BBC</a></h3>
