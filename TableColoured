@@ -1,0 +1,36 @@
+<head>
+<title>Tables</title>
+</head>
+<style>
+table, td {
+	border-style:solid;
+	border-color: red;
+	}
+</style>	
+
+<body>
+	<h2>A Table</h2>
+	<h3>Aircraft</h3>
+		<table border = "10">
+			<tr>
+				<td>Airbus</td>
+				<td>Boeing</td>
+				<td>Bombardier</td>
+			</tr>
+
+			<tr>
+				<td>Airbus</td>
+				<td>Boeing</td>
+				<td>Bombardier</td>
+			</tr>
+
+			<tr>
+				<td>Airbus</td>
+				<td>Boeing</td>
+				<td>Bombardier</td>
+			</tr>
+		</table>
+		
+</body>
+</html>		
+				
