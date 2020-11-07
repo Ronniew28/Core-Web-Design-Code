@@ -1,0 +1,30 @@
+<html>
+<head>
+<title>List Examples</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: grey;
+	}
+	
+.listColor {
+		background-color: yellow;
+		width: 150px;
+		}
+	
+</style>	
+
+<body>	
+<h2>Basic Lists</lists>
+		<h3>Web browsers</h3>
+		<div class = "listColor">
+		<ol>
+			<li><h4> Ms Edge</li></h4>
+			<li><h4> Firefox</li></h4>
+			<li><h4> Chrome</li></h4>
+		</ol>
+		</div>
+	
+</body>
+</html>		
