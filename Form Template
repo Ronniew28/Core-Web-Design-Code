@@ -1,0 +1,42 @@
+<html>
+<head>
+	<title>Sample Form Template</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: yellow;
+}
+</style>	
+
+<body>
+<h2>A Sample Form</h2>
+	<form action = " ">
+		<fieldset>
+			<legend>Sample Details</legend>
+				<p>
+				<label>Name</label>
+				<input type = "text" />
+				</p>
+				<p>
+				<label>Address</label>
+				<input type = "text" />
+				</p>
+				<p>
+				<label>Tel No</label>
+				<input type = "tel" />
+				</p>
+				<p>
+				<label>Please enter your comments below</label>
+				</p>
+				<p>
+				<textarea id = "txtAnswer"
+						rows = "10"
+						cols = "25">
+				</textarea>	
+				</p>
+		</fieldset>
+	</form>
+</body>
+</html>	
+		
