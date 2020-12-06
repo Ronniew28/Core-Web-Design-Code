@@ -1,0 +1,16 @@
+body {
+  background-color: purple;
+}
+
+
+<body>
+<h1>Sample Image</h1>
+  
+  <img src = "https://live.staticflickr.com/93/240755676_8465ec046a_z.jpg" alt= "Random Image" style = "width: 300px; height: 200px;">
+  
+  <h1>Image as link</h1>
+  
+  <a href = "BBC"><img src =      "https://live.staticflickr.com/3289/2657568433_d8a961344d_z.jpg" alt = "BBC Logo" style = "width: 300px; height: 200px;">
+  </a>
+  
+</body>
