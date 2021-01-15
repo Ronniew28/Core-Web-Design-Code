@@ -1,0 +1,44 @@
+<html>
+<head>
+	<title>Links</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: brown;
+}
+
+a {
+	color: black;
+	background-color: white;
+	}
+	
+a:visited {
+		color: black;
+		background-color: yellow;
+		}
+		
+a:hover {
+			color:white;
+			background-color: blue;
+				}
+
+
+</style>	
+
+<body>
+<h1>Link Examples</h1>
+<p>
+	<a href = "http://www.rte.ie">A normal link</a>
+</p>
+
+<p>
+	<a href = "http://www.rte.ie">A visited link</a>
+</p>
+
+<p>
+	<a href = "http://www.rte.ie">Hover over link</a>
+</p>
+	
+</body>
+</html>	
