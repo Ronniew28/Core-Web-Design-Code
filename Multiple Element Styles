@@ -1,0 +1,35 @@
+body {
+  background-color: purple;
+  text-align: center;
+}
+
+h1 {
+  background-color: white;
+  text-shadow: 5px 2px red;
+}
+
+h2 {
+  color: white;
+  font-family: Verdana;
+  font-style:oblique;
+  font-variant: small-caps;
+  border: 5px solid red;
+  background-color: black;
+}
+
+h3 {
+  color: green;
+  font-family: Georgia;
+  font-style: italic;
+  border: 5px solid yellow;
+  background-color: blue;
+}
+
+
+<h1>Multiple Style Elements</h1>
+<br>
+
+<h2>This is font size h2</h2>
+<br>
+
+<h3>This is font size h3</h3>
