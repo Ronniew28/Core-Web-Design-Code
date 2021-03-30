@@ -1,0 +1,99 @@
+body {
+  background-color: grey;
+}
+
+#head {
+  border: 5px black solid;
+  text-align: center;
+  background-color: white;
+}
+
+#left {
+  background-color: blue;
+  border: 3px red solid;
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+#right {
+  background-color: purple;
+  border: 3px yellow solid;
+  width: 20%;
+  float: left;
+  text-align: center;
+}
+
+#left1 {
+  background-color: blue;
+  border: 3px red solid;
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+
+#right1 {
+  background-color: purple;
+  border: 3px yellow solid;
+  width: 20%;
+  float: left;
+  text-align: center;
+}
+
+#footer {
+  background-color: orange;
+  border: 5px black solid;
+  text-align: center;
+  clear: both;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+<div id = "head">
+  <h1>Four Columns with Float</h1>
+</div>
+
+<div class = "container">
+<div id = "left">
+  <h2>Left Column</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, </p>
+</div>
+
+<div id = "right">
+  <h2>Right Column</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+  </p>
+</div>
+
+<div id = "left1">
+  <h2>Left Column</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+      Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, </p>
+</div>
+
+<div id = "right1">
+  <h2>Right Column</h2>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+  </p>
+</div>
+  
+</div>
+
+<div id = "footer">
+  <h1>Footer</h1>
+</div>
+  
+
+  
