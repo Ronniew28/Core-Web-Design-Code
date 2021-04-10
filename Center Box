@@ -1,0 +1,25 @@
+body {
+  text-align: Center;
+  background-color: blue;
+}
+
+#mainBody {
+  border: 5px double yellow;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: .5em;
+}
+
+.shadow {
+  box-shadow: 10px 10px 10px #000000;
+}
+
+
+<body>
+<h1>Centering</h1>
+  <div id = "mainBody">
+    <br>
+    <p>
+      <h3>This line is centered</h3>
+    </p>
