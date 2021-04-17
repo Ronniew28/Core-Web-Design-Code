@@ -1,0 +1,48 @@
+<html>
+<head>
+	<title>TABLES</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: white;
+}
+
+table, th {
+	border: 2px solid red;
+	}
+
+</style>	
+
+<body>
+	<table>
+		<h3>Table Example</h3>
+		<h4>Title</h4>
+			
+			<tr>
+			<th>Title A</th>
+			<th>Title B</th>
+			<th>Title C</th>
+		</tr>	
+			
+			<tr>
+            <th scope="col">Name1</th>
+            <th scope="col">Name2</th>
+            <th scope="col">Name3</th>
+        </tr>
+			
+			<tr>
+			<th scope="col">Name4</th>
+            <th scope="col">Name5</th>
+            <th scope="col">Name6</th>
+		</tr>
+			
+			<tr>
+			<th scope="col">Name7</th>
+            <th scope="col">Name8</th>
+            <th scope="col">Name9</th>
+		</tr>
+	</table>	
+		
+		
+</body>
