@@ -1,0 +1,40 @@
+<html>
+<head>
+	<title>Intro Core Code</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: red;
+}
+
+</style>	
+
+<body>
+
+<h2>List Nesting in Practise</h2>
+	<ul>
+		<li>Tom</li>
+		<li>Dick</li>
+		<li>Harry</li>
+	</ul>	
+	
+	<ol>
+		<li>Tom</li>
+		<li>Dick</li>
+		<li>Harry</li>
+	</ol>	
+	
+	<ul>
+		<li>Tom
+			<ul>
+				<li>Mike</li>
+				<li>John</li>
+				<li>Neil</li>
+			</ul>	
+		</li>
+		<li>Dick</li>
+		<li>Harry</li>
+	</ul>	
+
+</body>
