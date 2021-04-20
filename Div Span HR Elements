@@ -1,0 +1,74 @@
+<html>
+<head>
+	<title>Code Practise</title>
+</head>
+
+<style type = "text/css">
+body {
+	background-color: red;
+}
+
+p {
+	color: yellow;
+	font-family: "Comic Sans MS";
+	font-size: 10px;
+	font-weight: bold;
+	}
+	
+.color1 {
+		color: white;
+		}
+		
+.name {
+		font: tahoma 75%
+	}		
+</style>	
+
+<body>
+	<main>
+	<header>
+	<h2>First Paragraph</h2>
+		</header>
+		<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+		Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+		id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra. 
+</p>
+
+<hr>
+	<header>
+	<h2>Second Paragraph</h2>
+	</header>
+		<p>Cras in congue eros. Nunc quis mauris ac leo volutpat venenatis. Proin molestie nulla eu augue imperdiet, ac pellentesque ligula viverra. 
+		Donec vel lectus dapibus, rhoncus lectus eget, scelerisque velit. Mauris congue, purus et ullamcorper mattis, 
+		ante mi fermentum magna, eget varius neque massa ut odio.
+</p>
+
+<hr>
+	<header>
+	<h2>Third Paragraph</h2>
+	</header>
+	<p>Fusce mattis, massa eu porta mollis, mauris tortor maximus arcu, ornare vulputate elit metus id justo. 
+	Curabitur quis hendrerit dolor. Nam nec placerat arcu. 	
+</p>
+
+<hr>
+
+	<h3>Navigation Links</h3>
+	<a href = "http://www.bbc.co.uk/news">BBC NEWS</a>
+	<a href = "http://www.cnn.com">CNN News</a>
+	
+<hr>
+
+	<h2>Div Element</h2>
+	<div class = "color1">
+	<span class = "name">Nunc quis mauris ac leo volutpat venenatis</span>
+	</div>
+	
+<hr>
+
+	
+
+
+
+</main>
+</body>
