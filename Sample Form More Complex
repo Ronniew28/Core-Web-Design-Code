@@ -1,0 +1,65 @@
+body {
+  background-color: #ff944d;
+}
+
+<head>
+  <title>IT Dpt Form</title>
+</head>
+
+<body>
+  <h2>IT Dpt Request Form</h2>
+  <form action = " ">
+    <p>
+    <label>Name</label>
+    <input type = "text"
+           value = ""/>
+  </p>
+    
+    <p>
+      <label>Office Location:</label>
+      <label for="Floor"></label>
+  <select name = "floor" id = "Floor">
+    <option value="">--Please choose an option--</option>
+    <option value="Floor 1">Floor 1</option>
+    <option value="Floor 2">Floor 2</option>
+    <option value="Floor 3">Floor 3</option>
+      </select>
+    </p>
+    
+    <p>
+      <label>Room Number</label>
+    <input type = "text"
+           value = ""/>
+    </p>
+    
+    <p>
+      <label>Phone Number</label>
+    <input type = "text"
+           size = "25"
+           value = ""/>
+    </p>
+    
+    <form action="/action_page.php">
+  <p>Please select Computer Type:</p>
+  <input type="radio" id="System" name="PC" value="System">
+  <label for="PC">Desktop</label><br>
+  
+      <input type="radio" id="Laptop" name="PC" value="System">
+  <label for="System">Laptop</label><br>
+  
+      <input type="radio" id="other" name="PC" value="other">
+  <label for="other">Other</label>
+  
+      <p>
+    <label>Please Specify</label>
+    <input type = "text"
+           value = ""/>  
+      </p>
+    
+<p>
+      
+    <input type = "submit"/>
+    <input type = "reset"/>
+      </p>
+      
+      </body>
