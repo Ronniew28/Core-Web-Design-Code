@@ -1,0 +1,29 @@
+body {
+  background-color: #4dff;
+}
+
+
+<html>
+   <head>
+      <style>
+         .btn {
+            background-color: yellow;
+            color: black;
+            text-align: center;
+            font-size: 13px;
+         }
+        
+        .btn1 {
+          background-color: red;
+            color: black;
+            text-align: center;
+            font-size: 13px;
+        }
+      </style>
+</head>
+
+<body>
+  <button class = "btn">Submit</button>
+  <button class = "btn1">Reset</button>
+     
+</body>
