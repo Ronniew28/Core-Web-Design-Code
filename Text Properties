@@ -1,0 +1,49 @@
+body {
+  background-color: #4dffdb;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  color: red;
+  text-decoration: black underline ;
+  letter-spacing : 10px;
+}
+
+p {
+  color: blue;
+  font-weight: bolder;
+  letter-spacing: 5px;
+}
+
+#test {
+  color: green;
+  font-weight: lighter;
+  letter-spacing: 7px;
+}
+
+
+<html>
+<head>
+  <title>Some Text Properties</title>
+</head>
+
+<body>
+    <h1>Headline</h1>
+<p>
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra,
+ per inceptos himenaeos. 
+</p>
+
+<p id = "test">
+Phasellus congue odio eget augue sodales imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Cras in congue eros. Nunc quis mauris ac leo volutpat venenatis. 
+Proin molestie nulla eu augue imperdiet, ac pellentesque ligula viverra. 
+ </p>
+  
+  </body>
+</html>
+
