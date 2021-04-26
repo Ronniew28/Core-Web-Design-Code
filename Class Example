@@ -1,0 +1,37 @@
+.first {
+    background-color: red;
+    font-size: 20px;
+}
+
+.second {
+    font: verdana;
+    background-color: yellow;
+}
+
+.third {
+  background-color: blue;
+  font-size: 8px;
+}
+
+<html>
+  <body>
+    <div class = "first">
+    <h2>First Paragraph</h2>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+
+    <h3> This is random text</h3>
+    </div>
+    
+    <div class = "second">
+    <h2>First Paragraph</h2>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+    Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+    </div>
+    
+    <div class = "third">
+      <h3>Just some random text</h3>
+    </div>
+
+</body>
+</html>
