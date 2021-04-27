@@ -1,0 +1,28 @@
+body {
+  background-color: #0055ff;
+}
+
+span.colours {
+  color: red;
+}
+
+span.colours1 {
+  color: white;
+}
+
+<html>
+  <head>
+    <title>CSS Class Selector</title>
+  </head>
+  
+  <body>
+    <p>This is a <span style = "color: blue">blue</span> element</p>
+    
+    <p>OK! This span class is a <span class = "colours">red</span> element</p>
+    
+    <p>This is a <span class = "colours1">white</span> element</p>
+    
+    <p>And this is another example of the <span class = "colours">red</span> in effect</p>
+  
+  </body>
+</html>
