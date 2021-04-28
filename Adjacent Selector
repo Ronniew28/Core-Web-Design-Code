@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+}
+
+p + h3 {
+  color: cyan;
+}
+
+ p + div {
+  color: red;
+}
+
+<html>
+  <head>
+    <title>Adjacent Selector</title>
+  </head>
+  
+  <body>
+    
+    <p><h3>Hello Coding World</h3></p>
+    <h2><p>Hello Coding World</h2></p>
+    <h3><p>Hello Coding World</h3></p>
+    <h1><p>Hello Coding World</h1></p>
+    <h4><p>Hello Coding World</h4></p>
+    <p>Hello Coding World</p>
+    
+    <div>
+    <p>test</p>
+      <p>test1</p>
+    </div>
+    
+    
+    
+    <body>
+      </html>
