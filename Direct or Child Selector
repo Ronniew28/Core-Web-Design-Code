@@ -1,0 +1,32 @@
+body {
+  background-color: magenta;
+}
+
+div > h2 {
+  background-color: yellow;
+}
+
+div > section > p {
+  background-color: blue;
+}
+
+
+<html>
+  <head>
+    <title>Direct/Child Selector</title>
+  </head>
+  
+  <body>
+    <div>
+      <h2>First Paragraph</h2>
+      <h4>Paragraph 2 in the div.</h4> <!-- not Child but Descendant -->
+      <h2>Third Paragraph</h2>
+    </div>
+    
+    <div>
+      <section><p>Paragraph 3 in the div.</p></section> <!-- not Child but Descendant -->
+      
+    
+    
+  </body>
+</html>
