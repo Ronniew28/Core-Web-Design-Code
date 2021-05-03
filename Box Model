@@ -1,0 +1,33 @@
+body {
+  background-color: #80aaff;
+}
+
+div {
+  background-color: purple;
+  width: 200px;
+  border: 10px solid red;
+  padding: 30px;
+  margin: 20px;
+  height: 200px; /*NB: it doesn;t cover alll the text*/
+  border-radius: 30px;
+  
+}
+
+<html>
+  <body>
+    <title>CSS Box Model</title>
+    </head>
+  
+  <body>
+    <div>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Phasellus congue odio eget augue sodales imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Cras in congue eros. Nunc quis mauris ac leo volutpat venenatis. Proin molestie nulla eu augue imperdiet, ac pellentesque ligula viverra. 
+Donec vel lectus dapibus, rhoncus lectus eget, scelerisque velit. Mauris congue, purus et ullamcorper mattis, ante mi fermentum magna, eget varius neque massa ut odio.
+Fusce mattis, massa eu porta mollis, mauris tortor maximus arcu, ornare vulputate elit metus id justo. Curabitur quis hendrerit dolor. Nam nec placerat arcu. </div>
+    
+    
+  </body>
+</html>
