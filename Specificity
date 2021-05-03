@@ -1,0 +1,41 @@
+body {
+  background-color: #66ffc2;
+}
+
+/*The lower element will always be chosen*/
+h2 {
+  background-color: red;
+}
+
+h2 {
+  background-color: yellow;
+}
+
+/*ID Selectors have a higher specificity*/
+div#test {
+  background-color: white;
+  }
+
+#test {
+  background-color: pink;
+}
+
+/*Class selector beats element selectors*/
+.intro {background-color: yellow;}
+h3 {background-color: red;}
+
+
+<html>
+  <head>
+    <title>Specificity</title>
+  </head>
+  
+  <body>
+    <h2>This is Specificity in action!</h2>
+    
+    <div id = "test">Specificity on a div id</div>
+    
+    <h3 class="intro">This is a heading</h3>
+    
+  </body>
+</html>
