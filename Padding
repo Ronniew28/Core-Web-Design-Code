@@ -1,0 +1,58 @@
+body {
+  background-color: #440066;
+}
+
+p {
+  background-color: purple;
+  width: 200px;
+  border: 10px solid red;
+  padding: 70px;
+  margin: 20px;
+  height: 200px; 
+  border-radius: 30px;
+}
+
+h3 {
+  background-color: blue;
+  width: 200px;
+  border: 10px solid red;
+  padding- left: 130px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-right; 100px;
+  border-radius: 30px;
+}
+
+h4 {
+  padding: 10px 20px;
+  background-color: grey;
+  width: 200px;
+  border: 10px solid red;
+}
+
+<html>
+  <head>
+    <title>Padding</title>
+  </head>
+  
+  <body>
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+    </p>
+    
+    <h3>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    </h3>
+    
+    <h4>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+    </h4>
+    
+  </body>
+</html>
