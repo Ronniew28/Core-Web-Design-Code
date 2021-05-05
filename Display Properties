@@ -1,0 +1,57 @@
+body {
+  background-color:#00b33c
+}
+
+h1 {
+  background-color: #ffcc00;
+  border: 1px solid black;
+  display: inline;
+}
+
+span {
+  background-color: cyan;
+  border: 1px solid black;
+  display: block;
+  width: 500px;
+  margin: 50px;
+}
+
+div {
+  height: 100px;
+  width: 150px;
+  background-color: blue;
+  display: inline-block;
+  margin: 25px;
+}
+
+<html>
+  <head>
+    <title>Display Property</title>
+  </head>
+  
+  <body>
+    <h1>I am a H1</h1>
+    <h1>I too am a H1</h1>
+    
+    <span>I am a Span</span>
+    <span>I'm a span as well</span>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Phasellus congue odio eget augue sodales imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+      <span>Whats a span doing here??!!</span>
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+Phasellus congue odio eget augue sodales imperdiet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+       </p>
+    
+    <div></div>
+    <div></div>
+    <div></div>
+        
+        
+        </body>
+</html>
