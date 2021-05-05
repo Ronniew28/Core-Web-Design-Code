@@ -1,0 +1,40 @@
+body {
+  background-color: #a6ff4d;
+}
+
+p {
+  text-align: center;
+  border: 5px solid red;
+  
+}
+
+h4 {
+  text-align: center;
+  border: 5px solid purple;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 25px;
+  margin-right: 25px;
+}
+
+
+<html>
+  <head>
+    <title>Margin</title>
+  </head>
+  
+  <body>
+    <h4>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+    </h4>
+    
+    <p>
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+    </p>
+    
+  </body>
+</html>
