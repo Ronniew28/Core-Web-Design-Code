@@ -1,0 +1,44 @@
+body {
+  background-color: white;
+  text-align: center;
+}
+
+div {
+  height: 100px;
+  width: 150px;
+  background-color: blue;
+  display: inline-block;
+  margin: 20px;
+  padding: 5px;
+  text-align: left;
+  
+   
+}
+
+<html>
+  <head>
+    <title>Lists</title>
+  </head>
+  
+  <body>
+    
+    <h3>Web List</h3>
+    <div>
+      <ul>
+        <li>Web Service 1</li>
+        <li>Web Service 2</li>
+        <li>Web Service 3</li>
+      </ul>
+    </div>
+    
+    <div>
+    <ul>
+        <li>Web Service 4</li>
+        <li>Web Service 5</li>
+        <li>Web Service 6</li>
+      </ul>
+    </div>
+    
+  </body>
+</html>
+    
