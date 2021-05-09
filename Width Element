@@ -1,0 +1,35 @@
+body {
+  background-color:#ff944d;
+}
+
+.test {
+  width : 50%;
+  background-color: cyan;
+  
+}
+
+.test1 {
+  width: 75%;
+  background-color: yellow;
+}
+
+<html>
+  <head>
+    <title>CSS Units</title>
+  </head>
+  
+  <body>
+    <div class = "test">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+    </div>
+    
+    <div class = "test1">
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Integer pharetra scelerisque augue, id sagittis massa semper ut. Ut mattis est ipsum, 
+id feugiat mauris hendrerit in. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. 
+    </div>  
+    
+  </body>
+</html>
