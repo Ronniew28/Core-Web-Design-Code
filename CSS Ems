@@ -1,0 +1,24 @@
+body {
+  background-color: yellow;
+}
+
+p {
+  font-size: 2em;
+  line-height: 2em;
+  border: 2px solid red;
+  margin: 1em;
+  text-align: center;
+}
+
+<html>
+  <head>
+    <title>CSS Em's</title>
+  </head>
+  
+  <body>
+    
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+    
+    
+  </body>
+</html>
