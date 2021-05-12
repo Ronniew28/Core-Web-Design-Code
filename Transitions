@@ -1,0 +1,27 @@
+body {
+  background-color: #ffff4d;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  transition: width 2s, height 4s;
+}
+
+div:hover {
+  width: 200px;
+  height: 150px;
+  
+}
+
+<html>
+  <head>
+    <title>Transitions</title>
+    
+    <body>
+      <div></div>
+      
+      
+    </body>
+    <html>
