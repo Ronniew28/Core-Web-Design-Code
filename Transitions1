@@ -1,0 +1,42 @@
+body {
+  background-color: #ffff4d;
+}
+
+div {
+  height: 100px;
+  width: 100px;
+  background-color: brown;
+  transition: width 2s, height 4s;
+}
+
+div:hover {
+  width: 200px;
+  height: 150px;
+  }
+
+.circle {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  border-radius: 50%;
+  display: inline-block;
+  transition: 3s;
+}
+
+span:hover {
+  background-color: green;
+  transition: 4s;
+  border-radius: 70%;
+}
+
+<html>
+  <head>
+    <title>Transitions</title>
+    
+    <body>
+      <div></div>
+      <br>
+      <span class = "circle"></span>
+         
+    </body>
+    <html>
