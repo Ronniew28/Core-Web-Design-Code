@@ -1,0 +1,52 @@
+body {
+  background-color: #33bbff;
+}
+
+.button {
+  background-color: yellow;
+  border: 2px solid;
+  padding: 1em 2em;
+  font-size: 1em;
+}
+
+.test {
+  background-color: red;
+  border: 2px solid;
+  padding: 1em 2em;
+  font-size: 1em;
+}
+
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+  border: 5px solid blue;
+  box-shadow: 10px 5px 5px red;
+  transform: translateY(0.25em);
+  transition: all 0.25s;
+  cursor: pointer;
+}
+
+.test:hover {
+  background-color: purple;
+  color: yellow;
+  border: 5px solid blue;
+  box-shadow: 10px 5px 5px pink;
+  transform: translateY(0.25em);
+  transition: all 0.25s;
+  cursor: pointer;
+}
+
+
+<html>
+  <head>
+    <title>CSS Button Hover</title>
+  </head>
+  
+  <body>
+    <button class = "button">CLICK ME!!</button>
+    <br>
+    <br>
+    <button class = "test">Test</button>
+      </body>
+  </head>
+     
