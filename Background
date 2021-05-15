@@ -1,0 +1,38 @@
+body {
+  background-color: #3939ac;
+  background-repeat: repeat;
+}
+
+section {
+  width: 80%;
+  height: 800px;
+  background-color: purple;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 100px;
+  color: white;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  }
+  
+  <html>
+  <head>
+    <title>Backgrounds</title>
+    </head>
+  
+  <body>
+    <section>
+      <h1>Bikini Girl</h1>
+      <img src = 
+"https://live.staticflickr.com/8360/8368021426_9f25fe7608_b.jpg" alt = "Bikini Girl" class = "center" style = "width: 250px; height: 250px;">
+    </section>
+    
+      </body>
+</html>
