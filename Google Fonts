@@ -1,0 +1,22 @@
+body {
+  background-color: #c2d6;
+}
+
+h1 {
+  font-family: Pattaya;
+  color: red;
+  font-weight: 100;
+  font-size: 4rem;
+}
+
+<html>
+  <head>
+    <title>Google Fonts</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Pattaya">
+    
+    <body>
+      <h1>This is using Google Fonts</h1>
+      
+      
+    </body>
+    <html>
